@@ -57,9 +57,11 @@ To forecast sales for the **Furniture** product category for the year 2018 by le
 
 ## **Technologies Used**
 **Programming Language:**
+
 Python
 
 **Libraries:**
+
 pandas for data manipulation.
 
 numpy for numerical computations.
@@ -71,6 +73,7 @@ sklearn for machine learning modeling and evaluation.
 statsmodels for statistical analysis.
 
 ### **Future Work**
+
 - Expand the analysis to include other product categories such as **Office Supplies** and **Technology**.
 - Explore advanced machine learning models like Prophet and LSTM for time series forecasting.
 - Develop a dashboard to visualize forecasts and provide actionable insights for stakeholders.
